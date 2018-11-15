@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form2.cs](./CS/WindowsFormsApplication1/Form2.cs) (VB: [Form2.vb](./VB/WindowsFormsApplication1/Form2.vb))
+* [Program.cs](./CS/WindowsFormsApplication1/Program.cs) (VB: [Program.vb](./VB/WindowsFormsApplication1/Program.vb))
+<!-- default file list end -->
 # How to suppress the "Report has been changed. Do you want to save changes" message when closing a report in the End-User Report Designer
 
 
